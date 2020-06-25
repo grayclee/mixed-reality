@@ -11,11 +11,9 @@ keywords: design, holographic display, content design
 
 ![Ulnar side hand location](images/UX/UX_Hero_HandMenu.jpg)
 
-When designing content for holographic display, there are several elements that you need to consider to achieve the best experience.
+When designing content for holographic display, there are several elements that you need to consider to achieve the best experience. Below are some of the recommendations. To learn about the characteristics of the holographic display, see [Color, light and materials](color,-light-and-materials.md) page.
 
 <br>
-
----
 
 ## Use dark colors on the UI's backplate
 Based on our user research and testings on various types of HoloLens experiences, we found that using bright colors on the large area can cause several issues:
@@ -25,18 +23,23 @@ Since holographic display is additive, bright color uses more light to display h
 Do: Use dark theme on your UI and content elements if possible.
 Don't: Use white or bright solid color
 
+[TODO: Image - large area with strong white color]
+
 **2. Hand occlusion** 
 Bright color makes the user difficult to see their hands when directly interacting with objects. Since user cannot see their hands, it becomes difficult to perceive the depth/distance between the hand/finger to the target surface. Finger Cursor compensates this issue but still challenging on bright white surface.
+
+[TODO: Image - Dark & Bright theme with hand interactions]
 
 **3. Color uniformity**
 Because of the characteristics of holographic displays made with lights and mirrors, a large bright area can become blotchy. 
 
-Read more on [Color, light and materials](color,-light-and-materials.md)
-
+[TODO: Image - prominent white window vs dark window through hololens display]
 
 ## Use semibold or bold font family
 
 HoloLens has display that can render content at 47 PPD(Pixels Per Degree). This allows your experience show beautiful high-resolution text. However, it is recommended to avoid thin font families such as light or semilight because the vertical strokes can jitter in small font size.  
+
+[TODO: Image - light vs semibold font example]
 
 
 ## Use transparent or translucent UI backplate sparsely
@@ -44,6 +47,8 @@ HoloLens has display that can render content at 47 PPD(Pixels Per Degree). This 
 - Performance
 - DepthLSR issue
 - Visual complexity, accessibility
+
+[TODO: Image - plated vs unplated]
 
 
 
