@@ -26,18 +26,18 @@ Don't: Use white or bright solid color
 [TODO: Image - large area with strong white color]
 
 **2. Hand occlusion** 
-Bright color makes the user difficult to see their hands when directly interacting with objects. Since user cannot see their hands, it becomes difficult to perceive the depth/distance between the hand/finger to the target surface. Finger Cursor compensates this issue but still challenging on bright white surface.
+Bright color makes the user difficult to see their hands when directly interacting with objects. Since the user cannot see their hands, it becomes difficult to perceive the depth/distance between the hand/finger to the target surface. Finger Cursor compensates for this issue but still challenging on a bright white surface.
 
 [TODO: Image - Dark & Bright theme with hand interactions]
 
 **3. Color uniformity**
-Because of the characteristics of holographic displays made with lights and mirrors, a large bright area can become blotchy. 
+Because of the characteristics of holographic displays, a large bright area can become blotchy. 
 
 [TODO: Image - prominent white window vs dark window through hololens display]
 
 ## Use semibold or bold font family
 
-HoloLens has display that can render content at 47 PPD(Pixels Per Degree). This allows your experience show beautiful high-resolution text. However, it is recommended to avoid thin font families such as light or semilight because the vertical strokes can jitter in small font size.  
+HoloLens has a display that can render content at 47 PPD(Pixels Per Degree). This allows your experience to show beautiful high-resolution text. However, it is recommended to avoid thin font families such as light or semi-light because the vertical strokes can jitter in small font size.
 
 [TODO: Image - light vs semibold font example]
 
