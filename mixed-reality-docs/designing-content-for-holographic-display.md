@@ -9,7 +9,7 @@ keywords: design, holographic display, content design
 ---
 # Designing content for holographic display
 
-![Ulnar side hand location](images/UX/UX_Hero_HandMenu.jpg)
+![Ulnar side hand location](images/UX/UX_Hero_DarkTheme.jpg)
 
 When designing content for holographic display, there are several elements that you need to consider to achieve the best experience. Below are some of the recommendations. To learn about the characteristics of the holographic display, see [Color, light and materials](color,-light-and-materials.md) page.
 
