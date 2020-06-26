@@ -16,11 +16,11 @@ When designing content for holographic display, there are several elements that 
 <br>
 
 ## Use dark colors on the UI's backplate
-Based on our user research and testings on various types of HoloLens experiences, we found that using bright colors on the large area can cause several issues:
+Based on our user research and testings on various types of HoloLens experiences, we found that using bright colors on large areas can cause several issues:
 
 **1. Eye fatigue** 
 
-Since holographic display is additive, bright color uses more light to display holograms. Bright, solid color on the large area can easily make the user's eyes fatigue. 
+Since holographic display is additive, bright color uses more light to display holograms. Bright, solid colors on large areas can easily casue the user's eyes to fatigue. 
 Do: Use dark theme on your UI and content elements if possible.
 Don't: Use white or bright solid color
 
@@ -28,7 +28,7 @@ Don't: Use white or bright solid color
 
 **2. Hand occlusion** 
 
-Bright color makes the user difficult to see their hands when directly interacting with objects. Since the user cannot see their hands, it becomes difficult to perceive the depth/distance between the hand/finger to the target surface. Finger Cursor compensates for this issue but still challenging on a bright white surface.
+Bright colors makes it diffucult for the user to see their hands when directly interacting with objects. Since the user cannot see their hands, it becomes difficult to perceive the depth/distance between the hand/finger to the target surface. Finger Cursor compensates for this issue but still challenging on a bright white surface.
 
 [TODO: Image - Dark & Bright theme with hand interactions]
 
