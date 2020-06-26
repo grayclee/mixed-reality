@@ -49,12 +49,15 @@ HoloLens has a display that can render content at 47 PPD(Pixels Per Degree). Thi
 [TODO: Image - plated vs unplated]
 
 **1. Performance**
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae quam efficitur, tristique nunc eu, aliquam felis. Vivamus faucibus elit sollicitudin sem tincidunt placerat. Integer at varius metus. Etiam imperdiet rhoncus leo ut lobortis. Praesent aliquam ligula a urna sodales, eu tempus nisl sodales. 
 
 **2. DepthLSR issue**
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae quam efficitur, tristique nunc eu, aliquam felis. Vivamus faucibus elit sollicitudin sem tincidunt placerat. Integer at varius metus. Etiam imperdiet rhoncus leo ut lobortis. Praesent aliquam ligula a urna sodales, eu tempus nisl sodales. 
 
 **3. Visual complexity, accessibility**
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae quam efficitur, tristique nunc eu, aliquam felis. Vivamus faucibus elit sollicitudin sem tincidunt placerat. Integer at varius metus. Etiam imperdiet rhoncus leo ut lobortis. Praesent aliquam ligula a urna sodales, eu tempus nisl sodales. 
 
 
