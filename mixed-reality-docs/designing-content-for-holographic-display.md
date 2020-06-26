@@ -57,11 +57,12 @@ HoloLens has display that can render content at 47 PPD(Pixels Per Degree). This 
 
 ---
 
-## Hand menu in MRTK (Mixed Reality Toolkit) for Unity
-**[MRTK](https://github.com/Microsoft/MixedRealityToolkit-Unity)** provides scripts and example scenes for the hand menu. HandConstraintPalmUp solver script allows you easily attach any objects to the hands with various configurable options.
+## Dark UI examples in MRTK (Mixed Reality Toolkit) for Unity
+**[MRTK](https://github.com/Microsoft/MixedRealityToolkit-Unity)** provides many UI building block examples based on the dark color schemes.
 
-* [MRTK - Hand Menu with HandConstraint and HandConstraintPalmUp
-](https://github.com/microsoft/MixedRealityToolkit-Unity/blob/mrtk_release/Documentation/README_Solver.md#hand-menu-with-handconstraint-and-handconstraintpalmup)
+* [Near Menu](https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/README_NearMenu.html)
+* [Dialog](https://microsoft.github.io/MixedRealityToolkit-Unity/Assets/MRTK/SDK/Experimental/Dialog/README_Dialog.html)
+* [Hand Menu](https://microsoft.github.io/MixedRealityToolkit-Unity/Documentation/README_HandMenu.html)
 
 
 <br>
